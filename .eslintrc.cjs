@@ -59,5 +59,8 @@ module.exports = {
                 ]
             }
         ]
-    }
+    },
+    globals: {
+        Product: true,
+    },
 };

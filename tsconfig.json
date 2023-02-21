@@ -20,7 +20,7 @@
       "@shared/*": ["./shared/*"],
       "@widgets/*": ["./widgets/*"],
       "@features/*": ["./features/*"],
-      "@pages/*": ["./pages/*"]
+      "@pages": ["./pages"]
     }
   },
   "include": ["src"],

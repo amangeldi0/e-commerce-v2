@@ -13,6 +13,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,css}\""
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.8.0",
     "autoprefixer": "^10.4.13",
     "i18next": "^22.4.9",
     "i18next-browser-languagedetector": "^7.0.1",
